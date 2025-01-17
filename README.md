@@ -1,18 +1,17 @@
 # Hi 👋, I'm Suraj Gupta
 
-I am a passionate [Your Role/Title] with over [X years of experience] turning raw data into meaningful insights. I work with modern tools like [Tool 1], [Tool 2], [Tool 3], and the [Technology/Framework]. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+I am a passionate **Python/Django Developer** with a growing interest in **Data Engineering**. With hands-on experience of more than 2 Years building scalable web applications and DRF using Django and Python, I am now expanding my skills to work with cloud-based data pipelines and big data tools (Pyspark, Data Bricks, Data Factory) on **Microsoft Azure**. I enjoy solving real-world problems with clean, efficient, and scalable code while continuously learning new technologies to stay updated in this fast-paced industry.
+
 
 ## 🔗 Connect with Me
-- 📌 **I'm a [Your Role/Title]**
-- 📺 YouTube: [Your YouTube Channel Link](https://your-channel-url)
-- 💼 LinkedIn: [Your LinkedIn Profile]([https://your-linkedin-url](https://www.linkedin.com/in/suraj-gupta-47b00617b/))
+- 📌 **I'm a Python Developer**
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/suraj-gupta-47b00617b/)
+- 📝 My Article: (https://www.geeksforgeeks.org/user/skrg141/)
 
 ## 🛠️ Languages and Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-... (add more badges here)
 
 ## 📜 Certifications
 ![Certification 1](https://img.shields.io/badge/Certification-Name-Blue)
